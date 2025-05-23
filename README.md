@@ -9,6 +9,7 @@
 
 ### Dự án
 - Phát triển các website sử dụng PHP và đã tham gia vào các dự án lập trình lớn nhỏ 🍂
-- `zyanhazy.wuaze.com` là một máy chủ Minecraft, dự định sẽ phát hành nó vào 2026. 🍃
+- `naryuhazy.wuaze.com` là một máy chủ Minecraft, dự định sẽ phát hành nó vào 2026. 🍃
+- NaryuHazy Minecraft Bedrock Server: https://discord.gg/b4FdbHtQRY
 
 Cám ơn bạn đã ghé thăm!
